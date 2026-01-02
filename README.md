@@ -60,5 +60,5 @@ npm run dev
 - DELETE /api/tasks/:id
 
 ## 📄 API Documentation
-
+``` http://localhost:5000 will be base URL for local host run (used in postman) ```
 ### Postman Collection: Smart-ToDo-API.postman_collection.json [https://github.com/debangshucode/Smart-ToDo-API-Node-JS/blob/main/Smart%20ToDo%20API.postman_collection.json]
