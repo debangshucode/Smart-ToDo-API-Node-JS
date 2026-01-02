@@ -49,15 +49,15 @@ npm run dev
 ## 🔐 API Endpoints
 ### Auth
 
--POST /api/auth/register
--POST /api/auth/login
+- POST /api/auth/register
+- POST /api/auth/login
 
 ### Tasks (Protected)
 
--POST /api/tasks
--GET /api/tasks
--PUT /api/tasks/:id
--DELETE /api/tasks/:id
+- POST /api/tasks
+- GET /api/tasks
+- PUT /api/tasks/:id
+- DELETE /api/tasks/:id
 
 ## 📄 API Documentation
 
